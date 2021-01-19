@@ -3,5 +3,6 @@ public class Cities {
         System.out.println("Chelsey, Seoul");
         System.out.println("Fernando, Vancouver");
         System.out.println("William, Italy");
+        System.out.println("Abhiyan, Pokhara");
     }
 }
